@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="auto-implement-anno-processor:jar">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="auto-implement-anno-processor.jar">
+      <element id="module-output" name="auto-implement-anno-processor" />
+    </root>
+  </artifact>
+</component>
